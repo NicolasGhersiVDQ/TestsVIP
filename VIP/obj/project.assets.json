@@ -287,11 +287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adm-id097338\\source\\DotNet\\Monitoring\\VIP\\VIP\\VIP.csproj",
+      "projectUniqueName": "C:\\Users\\adm-id097338\\source\\DotNet\\Monitoring\\Tests\\VIP\\VIP\\VIP.csproj",
       "projectName": "VIP",
-      "projectPath": "C:\\Users\\adm-id097338\\source\\DotNet\\Monitoring\\VIP\\VIP\\VIP.csproj",
+      "projectPath": "C:\\Users\\adm-id097338\\source\\DotNet\\Monitoring\\Tests\\VIP\\VIP\\VIP.csproj",
       "packagesPath": "C:\\Users\\adm-id097338\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adm-id097338\\source\\DotNet\\Monitoring\\VIP\\VIP\\obj\\",
+      "outputPath": "C:\\Users\\adm-id097338\\source\\DotNet\\Monitoring\\Tests\\VIP\\VIP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
