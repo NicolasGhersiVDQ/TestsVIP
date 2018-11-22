@@ -1,0 +1,11 @@
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\bin\Debug\VIP.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\bin\Debug\VIP.pdb
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\bin\Debug\nunit.framework.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\bin\Debug\nunit.framework.pdb
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\bin\Debug\WebDriver.Support.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\bin\Debug\WebDriver.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\obj\Debug\VIP.csprojAssemblyReference.cache
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\obj\Debug\VIP.csproj.CoreCompileInputs.cache
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\obj\Debug\VIP.csproj.CopyComplete
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\obj\Debug\VIP.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\VIP\VIP\obj\Debug\VIP.pdb
